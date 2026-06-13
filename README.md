@@ -1,1 +1,2 @@
 # Employee-Management-System
+The Employee Management System is a Java-based application used to manage employee records in a centralized database. It allows users to add, view, update, and delete employee information such as name, ID, department, designation, salary, and contact details. The system helps organizations maintain employee data efficiently and accurately. It was developed using Java and MySQL, providing an easy way to manage employee information and streamline administrative tasks.
